@@ -1,0 +1,1 @@
+Within Salesforce Commerce Cloud, manual redirects for search queries can be set up. In this notebook, we are exploring the possibilities of generating lists of search queries for the purpose of redirecting. These search queries are derived from actual visits on the PDP URL's on the website.
